@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.top-section{
+    background-color:#fb4e71;
+    padding:20px;
+}
+.player1-name{
+    color:white;
+    font-family:'Roboto';
+    font-weight:bold;
+}
+.player1-description{
+    color:white;
+    font-family:'Roboto';
+}
+.image1{
+    height:150px;
+    width:120px;
+}
+.bottom-section{
+    background-color:#e6f6ff;
+    padding:20px;
+}
+.sub-head-1{
+    font-size:20px;
+    font-weight:bold;
+    color:#323f4b;
+}
+.record-description-card{
+    background-color:#ffffff;
+    padding:10px;
+    border-top-right-radius:18px;
+    border-bottom-right-radius:18px;
+}
+.record-description-heading{
+    color:#323f4b;
+    font-weight:400;
+}
+.record-description{
+    color:#323f4b;   
+}
+
+.videos{
+    font-size:20px;
+    font-weight:bold;
+    color:#323f4b; 
+    margin-top:15px;
+}
+.pics{
+   margin:10px;
+}
+.img-dis{
+    font-family:'Roboto';
+    font-size:12px;
+}
+ 
+ 

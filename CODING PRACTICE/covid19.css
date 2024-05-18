@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-container{
+    background-color:white;
+    border-style:solid;
+    border-width:5px;
+    border-color:#0967d219;  
+}
+.covid-header{
+    margin:15px;
+}
+.intr0-title{
+    font-size:30px;
+    font-family:'Roboto';
+    color:#323f4b;
+}
+.middle-container{
+    background-color:#0967d219;
+    border-radius:10px;
+    margin:10px;
+    padding:20px;
+}
+.image2{
+    margin:10px;
+    width:48px;
+    height:48px;    
+}
+.sub-head-2{
+    margin:15px;
+    font-size:22px;
+    font-weight:500;
+    font-family:'Roboto';
+    color:#323f4b;
+}
+.covid-description{
+    color:#707070;
+    font-size:12px;
+}
+.ccc{
+    border-radius:12px;
+    padding:10px;
+    margin:10px;
+}
+.cough{
+    background-color: #3ebd93;
+}
+.fever{
+    background-color: #e668a7;
+}
+.headache{
+    background-color: #a368fc;
+}
+.symptom-test{
+    font-family: 'Roboto';
+    font-size:12px;
+    font-weight:500;
+    color:#ffffff;
+    margin:5px;
+}
+.bottom-card{
+    background-color:#e12d3919;
+    border-radius:12px;
+    padding:20px;
+}
