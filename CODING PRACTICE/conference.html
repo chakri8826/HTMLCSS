@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  </head>
+  <link rel="stylesheet" href="conference.css">
+  <body>
+    <div id="sectionConfHome">
+        <h1 class="conf-head">Conference Home Page:</h1>
+        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/conference-img.png" class="img"/>
+        <div class="bottom">
+            <h1 class="sub-head">The Things <br> Conference</h1>
+            <p class="sub-des">Redefining the future of IoT with <br> LoRaWAN</p>
+            <button class="btn btn-primary" onclick="display('sectionConfDetails')">Know more</button>
+        </div>
+    </div>
+    <div id="sectionConfDetails">
+        <h1 class="conf-head">Conference Details Page:</h1>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vKJ6nXE_6Hc?rel=0" allowfullscreen></iframe>
+        </div>
+        <div class="bottom">
+            <h1 class="sub-head">The Things Conference</h1>
+            <p class="sub-des">Join Asia's Largest Conference on LoRaWAN</p>
+            <div class="d-flex flex-row justify-content-center">
+                <div class="row-style">
+                    <h1 class="sub-head">1400+</h1>
+                    <p class="sub-des">Attendees</p>
+                </div>
+                <div class="row-style">
+                    <h1 class="sub-head">100+</h1>
+                    <p class="sub-des">Workshops</p>
+                </div> 
+            </div>
+            <div class="d-flex flex-row justify-content-center">
+                <div class="row-style">
+                    <h1 class="sub-head">120+</h1>
+                    <p class="sub-des">Speakers</p>
+                </div>
+                <div class="row-style">
+                    <h1 class="sub-head">10+</h1>
+                    <p class="sub-des">Countries    </p>
+                </div> 
+            </div>
+            <button class="btn btn-primary" onclick="display('sectionConfHome')">Back</button>
+         </div>
+        
+    </div>
+    <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
+  </body>
+</html>

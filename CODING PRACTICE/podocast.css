@@ -1,0 +1,91 @@
+.pg-head{
+    color:#151765;
+    font-family:'Roboto';
+    font-size:28px;
+}
+.bg-cont{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height:60vh;
+    background-size:cover;
+    padding:20px;
+}
+.podo{
+    color:#ffffff;
+    font-family:'Roboto';
+    font-size:40px;
+}
+ 
+.row-style{
+    margin-right:30px;
+    margin-left:30px;
+    margin-top:10px;
+    margin-bottom:10px;
+    text-align:center;
+}
+.img{
+    width:184px;
+    height:142px;
+    margin-top:10px;
+}
+.person-name{
+    color:#151765;
+    font-size:20px;
+    font-weight:bold;
+    font-family:'Roboto';
+    margin-top:10px;
+}
+.noof-epi{
+    color:#5a7184;
+    font-family:'Roboto';
+}
+.top-box{
+    background-color:#151765;
+    padding:15px;
+}
+.pod-text-cont{
+    margin-left:15px;
+}
+.category{
+    font-family: 'Roboto';
+    color:#ffffff;;
+    font-size:18px;
+}
+.pod-title{
+    font-family: 'Roboto';
+    color:#ffffff;;
+    font-size:34px;
+    font-weight:600;
+}
+.epi-cont{
+    margin:10px;
+}
+.topic{
+    margin-top:10px;
+    color:#151765;
+    font-family:'Roboto';
+    font-weight:bold;
+    font-size:20px;
+}
+.topic-des{
+    color:#5a7184;
+    font-family:'Roboto';
+    font-size:18px;
+}
+.time{
+    margin-top:40px;
+    color:#151765;
+    font-family:'Roboto';
+    font-size:12px;
+}
+.but-cont{
+    margin:10px;
+}
+.but{
+    font-family:'Roboto';
+    color:#ffffff;
+    background-color:#151765;
+    border-radius:8px;
+    border-width:0px;
+    width:75px;
+    height:24px;
+}
