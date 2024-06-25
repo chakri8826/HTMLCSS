@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg{
+    background-color:black;
+    height:100vh;
+   
+    padding:10px;
+}
+.text{
+    font-family:'Roboto';
+    color:#ffffff;   
+}
+.img{
+    height:200px;
+    width:200px;
+    
+}
+.butt{
+    margin-top:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    width:200px;
+}
+.turtle{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-turtle-bg.png");
+}
+.rac{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-raccoon-bg.png");
+}
+.bgs{
+    height:100vh;
+    background-size: cover;
+    padding:10px;
+}
+.card-text{
+    color:#ffffff;
+}
+.button{
+    width:60px;
+}
+.kang{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-kangaroo-bg.png");
+}
+.lion{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-lion-bg.png");
+}
