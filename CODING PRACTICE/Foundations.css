@@ -1,0 +1,41 @@
+.bg-cont{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    height:100vh;
+    background-size:cover;
+}
+.btm-card{
+    background-color:#ffffff;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    padding:10px;
+}
+.text{
+    margin-left:15px;
+}
+.Foundations{
+    margin-top:20px;
+    color:#323f4b;
+    font-weight:bold;
+}
+.des{
+    color:#7b8794;
+}
+.img{
+    border-radius:5px;
+    border-width:2px;
+    border-style:solid;
+    border-color:#cbd2d9;
+    padding:20px;
+    text-align:center;
+    width:150px;
+    height:150px;
+    margin:8px;
+}
+.img-style{
+    width:80px;
+    height:80px;
+}
+.lang-name{
+    color:#323f4b;
+    margin:5px;
+}
