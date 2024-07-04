@@ -1,0 +1,26 @@
+.vr-section{
+    background-color:#ffffff;
+}
+.heading{
+    color:#1f2933;
+    /* font-family:"Roboto"; */
+    font-weight:600;
+}
+.vwfs-card{
+    text-align: center;
+}
+.card-img{
+    width:100px;
+    height:100px;
+}
+.title{
+    color:#1f2933;   
+}
+.des{
+    color:#7b8794;
+}
+.ni{
+    color:#1f2933;
+    font-style:italic;
+    font-weight: 600;
+}
