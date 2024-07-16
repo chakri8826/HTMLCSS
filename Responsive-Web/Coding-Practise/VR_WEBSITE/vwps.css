@@ -1,0 +1,52 @@
+.main-head{
+    color:#1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:40px;
+}
+.product-card{
+    width:100%;
+    height:600px;
+}
+.bg-cont1{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size:cover;
+}
+.vrh{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size: 32px;
+}
+.price{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size: 20px;
+}
+.butt{
+    border-style:solid;
+    border-width:2px;
+    border-color:#ffffff;
+    border-radius:4px;
+    font-family:"Roboto";
+    font-size:16px;
+    color:#ffffff;
+    width:133px;
+    height:30px;
+    background-color:transparent;
+}
+.bg-cont2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size:cover;
+}
+.but{
+        width:173px;
+        height: 56px;
+        border-width:0px;
+        border-radius: 4px;
+        background-color:#1754a1;
+        color:#ffffff;
+        font-family:"Roboto";
+        font-size:18px;
+        font-weight: 500;
+   
+}

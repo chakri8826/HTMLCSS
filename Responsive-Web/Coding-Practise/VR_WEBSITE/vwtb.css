@@ -1,0 +1,35 @@
+.heading{
+    color:#1f2933;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+}
+.company-name{
+    color:#959ead;
+    font-family: "Roboto";
+    font-size:18px;
+    font-weight: bold;
+}
+.company-des{
+    color:#323f4b;
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight: bold;
+}
+.readmore{
+    color:#1754a1;
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight: bold;
+}
+.but{
+    width:173px;
+    height: 56px;
+    border-width:0px;
+    border-radius: 4px;
+    background-color:#1754a1;
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight: 500;
+}
