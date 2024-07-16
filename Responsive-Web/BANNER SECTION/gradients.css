@@ -1,0 +1,8 @@
+.linear-gradient-background {
+    height: 100vh;
+    background-image: linear-gradient(to bottom,#2196f3, #f44336);
+}
+.radial-gradient-background {
+    height: 100vh;
+    background-image: radial-gradient(#2196f3, #f44336);
+}
