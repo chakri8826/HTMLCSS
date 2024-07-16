@@ -1,0 +1,48 @@
+.symbol{
+    font-size: 24px;
+    font-family:"Roboto";
+    font-weight:700;
+    border-style:solid;
+    border-color: #4b6cc1;
+    border-width:3px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.bg{
+    background-color: #191a1d;
+    height:100vh;
+}
+.img{
+    width:280px;
+    margin-bottom:10px;
+    border-radius: 50px;
+    height: 380px;
+    width:300px;
+
+}
+.name{
+    color:#ffffff;
+    font-size: 45px;
+    font-family:"Roboto";
+    font-weight:400;
+
+}
+.main-name{
+    color:#4b6cc1;
+    font-size: 45px;
+    font-family:"Roboto";
+    font-weight:400;
+}
+.skill{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-size: 30px;
+}
+.custom-button{
+    border-width:0px;
+    border-radius:4px;
+    width:130px;
+    height:40px;
+    background-color:#4b6cc1;
+    color:#ffffff
+}

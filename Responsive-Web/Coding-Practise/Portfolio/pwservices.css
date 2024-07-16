@@ -1,0 +1,36 @@
+.services-bg{
+    background-color:#3e4c59;
+}
+.services{
+    color:#cced00;
+    font-family:"Roboto";
+    font-size: 28px;
+    font-weight:800;
+}
+.about-me{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size: 55px;
+    font-weight:800;
+}
+.services-sec{
+    background-color: #323f4b;
+    border-radius:11px;
+    padding:20px;
+}
+.img{
+    width:60px;
+    height:70px;
+}
+.type-of-web{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size: 34px;
+    font-weight:800;
+}
+.web-des{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-size: 24px;
+    font-weight:800;
+}

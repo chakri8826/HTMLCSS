@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.facts-bg{
+    background-color:#323f4b;
+}
+.quality{
+    color:#cced00;
+    font-family:"Roboto";
+    font-size: 28px;
+    font-weight:800;
+}
+.about-me{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size: 45px;
+    font-weight:800;
+}
+.des{
+    color:#9aa5b1;
+    font-size:18px;
+    font-weight:200;
+}
+
+.skills-bg{
+    background-color:#1f2933;
+}
+.skill-cont{
+    background-color:#323f4b;
+    padding:10px;
+    border-radius:12px;
+}
+.img{
+    width:64px;
+    height:64px;
+}
+.skill-name{
+    color:#ffffff;
+    font-size:30px;
+    font-family:"Roboto";
+    font-weight:800;
+}

@@ -1,0 +1,43 @@
+.projects-bg{
+    background-color:#3e4c59;
+}
+.quality{
+    color:#cced00;
+    font-family:"Roboto";
+    font-size: 28px;
+    font-weight:800;
+}
+.about-me{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size: 45px;
+    font-weight:800;
+}
+.proj-sec{
+    background-color: #323f4b;
+    border-radius:11px;
+ 
+}
+.des{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-size: 20px;
+    font-weight:400;
+}
+.p-name{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size:40px;
+}
+.p-des{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-size:36px;
+}
+.readmore{
+    color:#cced00;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight: bold;
+}
+ 
